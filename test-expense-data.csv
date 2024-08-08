@@ -1,0 +1,419 @@
+BSB Number,Account Number,Transaction Date,Narration,Debit,Credit,Transaction Type,Categories
+2,1,1/11/2023,FRESH FOOD PEOPLE,-17.4,,WDL,Groceries - Supermarkets
+2,1,1/11/2023,FRESH FOOD PEOPLE,-12.5,,WDL,Groceries - Supermarkets
+2,1,1/11/2023,ALIEXPRESS,-33.79,,WDL,Technology - Gadgets And Electronics
+2,1,1/11/2023,SHU FIKS LDN,-25,,WDL,Shopping - Clothing & Fashion
+2,1,2/11/2023,LS J L Glass Enterpr SY ,-17.54,,WDL,Food & Drinks - Cafes & Coffee
+2,1,2/11/2023,LS J L Glass Enterpr SY ,-5.1,,WDL,Food & Drinks - Cafes & Coffee
+2,1,2/11/2023,PLINE PH LDN LDN,-36,,WDL,Health & Beauty - Chemists
+2,1,2/11/2023,PLINE PH LDN LDN,-16,,WDL,Health & Beauty - Chemists
+2,1,3/11/2023,METRO PETROLEUM,-113.35,,WDL,Transport - Fuel
+2,1,3/11/2023,AMAZON WEB SERVICES SY NS,-14,,WDL,Technology - Service
+2,1,3/11/2023,AMAZON  MARKETPLACE SY,-61.95,,WDL,Shopping - Hobbies
+2,1,6/11/2023,TARONGA CONSERVATION S NS,-241.77,,WDL,Entertainment - Events
+2,1,6/11/2023,Pizza Madre NS,-176.54,,WDL,Food & Drinks - Restrants
+2,1,6/11/2023,SQ *VALENTI COFFEE LDN NS,-4.89,,WDL,Food & Drinks - Cafes & Coffee
+2,1,6/11/2023,FRESH FOOD PEOPLE,-6.5,,WDL,Groceries - Supermarkets
+2,1,6/11/2023,Sonoma LDN LDN NS,-10,,WDL,Food & Drinks - Cafes & Coffee
+2,1,6/11/2023,SHU FIKS LDN,-35,,WDL,Shopping - Clothing & Fashion
+2,1,6/11/2023,APPLE.COM/BILL,-4.49,,WDL,Entertainment - Media Subscriptions
+2,1,6/11/2023,PHARMACY 4 LESS,-15.84,,WDL,Health & Beauty - Chemists
+2,1,7/11/2023,PAYPAL *STEAM GAMES GB,-109.95,,WDL,Entertainment - Media Subscriptions
+2,1,7/11/2023,Amami Mart LDN NS,-6.08,,WDL,Groceries - Supermarkets
+2,1,7/11/2023,Amami Mart LDN NS,-8.95,,WDL,Groceries - Supermarkets
+2,1,7/11/2023,HCFHEALTH SY NS,-280.55,,WDL,Health & Beauty - health insurance
+2,1,7/11/2023,State of Espresso CWD NS,-10.1,,WDL,Food & Drinks - Cafes & Coffee
+2,1,7/11/2023,MCDONALDS HABERFIELD HABERFIELD,-36.3,,WDL,Food & Drinks - Takeaways
+2,1,8/11/2023,PAYPAL *STEAM GAMES GB,,109.95,DEP,Entertainment - Media Subscriptions
+2,1,8/11/2023,IPPUDO CWD NS,-17.8,,WDL,Food & Drinks - Takeaways
+2,1,8/11/2023,TELEKOM BILLING,-79,,WDL,Household Utilities - Phone & Internet
+2,1,8/11/2023,MR PEABODY CWD ,-4.5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,8/11/2023,ALIEXPRESS,-7.98,,WDL,Technology - Gadgets And Electronics
+2,1,9/11/2023,SMP*La Bottega Cafe LDN ,-49.81,,WDL,Food & Drinks - Breakfasts
+2,1,10/11/2023,Last Av Fam Practice NS,-80,,WDL,Health & Beauty - Doctors & Dentist
+2,1,10/11/2023,CHEMIST WAREHOUSE NS,-20.98,,WDL,Health & Beauty - Chemists
+2,1,13/11/2023,#NAME?,,2954.84,DEP,Banking & Finance - Account Transfer
+2,1,13/11/2023,Computer,,1268.56,DEP,Banking & Finance - Account Transfer
+2,1,13/11/2023,Dr,,80,DEP,Banking & Finance - Account Transfer
+2,1,13/11/2023,AliExpress,,33,DEP,Banking & Finance - Account Transfer
+2,1,13/11/2023,Ippudo and coffee,,29,DEP,Banking & Finance - Account Transfer
+2,1,13/11/2023,CWD coffee,,10,DEP,Banking & Finance - Account Transfer
+2,1,13/11/2023,AliExpress,,8,DEP,Banking & Finance - Account Transfer
+2,1,13/11/2023,FRESH FOOD PEOPLE,-36.51,,WDL,Groceries - Supermarkets
+2,1,13/11/2023,AP LDN PS LDN,-1.59,,WDL,Mail & Postage
+2,1,13/11/2023,VFG 383 George Pty Lt SY NS,-68.78,,WDL,Food & Drinks - Bars & Pubs
+2,1,13/11/2023,Sonoma LDN LDN NS,-5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,13/11/2023,FRESH FOOD PEOPLE,-38.5,,WDL,Groceries - Supermarkets
+2,1,13/11/2023,Jaycar Electronics NS,-39.95,,WDL,Technology - Gadgets And Electronics
+2,1,13/11/2023,NESPRESSOGEORGE STREET SY NS,-112.6,,WDL,Groceries - Coffee
+2,1,13/11/2023,FRESH FOOD PEOPLE,-14.65,,WDL,Groceries - Supermarkets
+2,1,13/11/2023,DAVID FARM MARKETS,-22.59,,WDL,Groceries - Supermarkets
+2,1,14/11/2023,Gelato Mamamia,-8.14,,WDL,Food & Drinks - Gelato
+2,1,14/11/2023,Amami Mart LDN NS,-15.04,,WDL,Groceries - Supermarkets
+2,1,14/11/2023,Amami Mart LDN NS,-18.31,,WDL,Groceries - Supermarkets
+2,1,14/11/2023,ALIEXPRESS,-3.02,,WDL,Technology - Gadgets And Electronics
+2,1,14/11/2023,Sonoma LDN LDN NS,-14.5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,14/11/2023,ALIEXPRESS,-93.31,,WDL,Technology - Gadgets And Electronics
+2,1,14/11/2023,HOT TICKETS,-1785,,WDL,Entertainment - Events
+2,1,14/11/2023,CITY PARKING,-8,,WDL,Transport - Parking & Tolls
+2,1,15/11/2023,PAYPAL *AliExpress,-69.95,,WDL,Technology - Gadgets And Electronics
+2,1,15/11/2023,SOME STREAMING SERVICE,-16.99,,WDL,Entertainment - Media Subscriptions
+2,1,15/11/2023,PLINE PH LDN LDN,-10.49,,WDL,Health & Beauty - Chemists
+2,1,15/11/2023,DAVID FARM MARKETS,-15.99,,WDL,Groceries - Supermarkets
+2,1,16/11/2023,Health Burgers,-20.65,,WDL,Food & Drinks - Takeaways
+2,1,16/11/2023,SMP*La Bottega Cafe LDN ,-24.4,,WDL,Food & Drinks - Breakfasts
+2,1,16/11/2023,ALIEXPRESS,-46.14,,WDL,Technology - Gadgets And Electronics
+2,1,16/11/2023,Sonoma LDN LDN NS,-15.5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,16/11/2023,PLINE PH LDN LDN,-36.88,,WDL,Health & Beauty - Chemists
+2,1,17/11/2023,Gelato Mamamia,-29.52,,WDL,Food & Drinks - Gelato
+2,1,17/11/2023,POMARE DENTAL GROUP LDN NS,-1182,,WDL,Health & Beauty - Doctors & Dentist
+2,1,17/11/2023,CHEMIST WAREHOUSE LDN NS,-25.98,,WDL,Health & Beauty - Chemists
+2,1,20/11/2023,Amami Mart LDN NS,-30.03,,WDL,Groceries - Supermarkets
+2,1,20/11/2023,FRESH FOOD PEOPLE,-46.32,,WDL,Groceries - Supermarkets
+2,1,20/11/2023,PAYPAL *SPOTIFY GB,-20.99,,WDL,Entertainment - Media Subscriptions
+2,1,20/11/2023,Sonoma LDN LDN NS,-23.5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,20/11/2023,SQ *CREPES BRAS Beach NS,-13,,WDL,Food & Drinks - Cafes & Coffee
+2,1,20/11/2023,SQ *CREPES BRAS Beach NS,-36,,WDL,Food & Drinks - Cafes & Coffee
+2,1,20/11/2023,HAMMER BARN ALF,-3.95,,WDL,Home - Home Improvement
+2,1,20/11/2023,HAMMER BARN ALF,-121.46,,WDL,Home - Home Improvement
+2,1,20/11/2023,Health Burgers,-62.17,,WDL,Food & Drinks - Takeaways
+2,1,20/11/2023,FRESH FOOD PEOPLE,-15.8,,WDL,Groceries - Supermarkets
+2,1,20/11/2023,PAYPAL *FAB365 ,-7.25,,WDL,Shopping - Hobbies
+2,1,20/11/2023,ALIEXPRESS,-3.29,,WDL,Technology - Gadgets And Electronics
+2,1,20/11/2023,WAVERLEY JUNCTIO,-16,,WDL,Transport - Parking & Tolls
+2,1,20/11/2023,DAVID FARM MARKETS,-7,,WDL,Groceries - Supermarkets
+2,1,21/11/2023,Pho Nam Dinh LDN NS,-69.69,,WDL,Food & Drinks - Takeaways
+2,1,21/11/2023,7-ELEVEN ALF NS,-113.5,,WDL,Transport - Fuel
+2,1,21/11/2023,State of Espresso CWD NS,-9.09,,WDL,Food & Drinks - Cafes & Coffee
+2,1,22/11/2023,Apothecary Coffee CWD NS,-11.9,,WDL,Food & Drinks - Cafes & Coffee
+2,1,22/11/2023,Sonoma LDN LDN NS,-25.5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,23/11/2023,Amami Mart LDN NS,-8,,WDL,Groceries - Supermarkets
+2,1,23/11/2023,THE ROTUNDA CWD CWD,-26.39,,WDL,Food & Drinks - Bars & Pubs
+2,1,23/11/2023,THE ROTUNDA CWD CWD,-19.29,,WDL,Food & Drinks - Bars & Pubs
+2,1,23/11/2023,DAVID FARM MARKETS,-7,,WDL,Groceries - Supermarkets
+2,1,24/11/2023,Opera Bar,,1785,DEP,Banking & Finance - Account Transfer
+2,1,24/11/2023,Dentist,,1182,DEP,Banking & Finance - Account Transfer
+2,1,24/11/2023,PayPal microphone,,70,DEP,Banking & Finance - Account Transfer
+2,1,24/11/2023,Work lunch and cof,,57,DEP,Banking & Finance - Account Transfer
+2,1,24/11/2023,FRESH FOOD PEOPLE,-85.91,,WDL,Groceries - Supermarkets
+2,1,24/11/2023,Health Burgers,-58.13,,WDL,Food & Drinks - Takeaways
+2,1,24/11/2023,TELEKOM BILLING,-41.75,,WDL,Household Utilities - Phone & Internet
+2,1,27/11/2023,Fabbrica Bread Shop Norwest ,-36,,WDL,Food & Drinks - Cafes & Coffee
+2,1,27/11/2023,Toby'sEstateCoffee388 SY NS,-2.23,,WDL,Food & Drinks - Cafes & Coffee
+2,1,27/11/2023,Toby'sEstateCoffee388 SY NS,-27.06,,WDL,Food & Drinks - Cafes & Coffee
+2,1,27/11/2023,OAKS HAIR NS,-191,,WDL,Health & Beauty - Hair & Beauty
+2,1,27/11/2023,MINRO PTY LTD LDN NS,-88.97,,WDL,Groceries - Supermarkets
+2,1,27/11/2023,GROCY,-73.96,,WDL,Groceries - Supermarkets
+2,1,27/11/2023,HAMMER BARN ALF,-24.9,,WDL,Home - Home Improvement
+2,1,28/11/2023,CC,,1822.98,DEP,Banking & Finance - Account Transfer
+2,1,28/11/2023,WOOLWORTHS 1647 LDN ,-33.95,,WDL,Groceries - Supermarkets
+2,1,28/11/2023,CITY PARKING,-3.5,,WDL,Transport - Parking & Tolls
+2,1,29/11/2023,NAVIDS BAKERY LDN ,-4.57,,WDL,Food & Drinks - Cafes & Coffee
+2,1,29/11/2023,FRESH FOOD PEOPLE,-10.4,,WDL,Groceries - Supermarkets
+2,1,29/11/2023,Cafein LDN ,-4.47,,WDL,Food & Drinks - Cafes & Coffee
+2,1,29/11/2023,AM MART P LDN,-3.03,,WDL,Groceries - Supermarkets
+2,1,30/11/2023,SQ *LUNAS NS,-118.07,,WDL,Food & Drinks - Breakfasts
+2,1,1/12/2023,Pattison's Patisserie NS,-9,,WDL,Food & Drinks - Takeaways
+2,1,1/12/2023,MORETTI.COM. LDN NS,-48.49,,WDL,Food & Drinks - Takeaways
+2,1,1/12/2023,FRESH FOOD PEOPLE,-3.8,,WDL,Groceries - Supermarkets
+2,1,1/12/2023,METRO PETROLEUM,-90.02,,WDL,Transport - Fuel
+2,1,1/12/2023,PAYPAL *STEAM GAMES GB,-8.99,,WDL,Entertainment - Media Subscriptions
+2,1,1/12/2023,Batch Speciality Brew SY NS,-11.19,,WDL,Food & Drinks - Cafes & Coffee
+2,1,4/12/2023,SEALBAR L0154 LDN ,-36.72,,WDL,Food & Drinks - Bars & Pubs
+2,1,4/12/2023,Opera Bar SY NS,-44.44,,WDL,Food & Drinks - Bars & Pubs
+2,1,4/12/2023,Opera Bar SY NS,-16.16,,WDL,Food & Drinks - Bars & Pubs
+2,1,4/12/2023,Gelato Mamamia,-18.93,,WDL,Food & Drinks - Gelato
+2,1,4/12/2023,SQ *BLACK STAR PASTRY NS,-33.7,,WDL,Food & Drinks - Cafes & Coffee
+2,1,4/12/2023,NIVI MARKETING PTY LIM LDN ,-34.95,,WDL,Gifts
+2,1,4/12/2023,LIV*GREAT MEATS CO PT LDN ,-103.21,,WDL,Groceries - Supermarkets
+2,1,4/12/2023,AMAZON WEB SERVICES SY NS,-13.29,,WDL,Entertainment - Media Subscriptions
+2,1,4/12/2023,WAVERLEY JUNCTIO,-4.5,,WDL,Transport - Parking & Tolls
+2,1,4/12/2023,WAVERLEY JUNCTIO,-20,,WDL,Transport - Parking & Tolls
+2,1,4/12/2023,CITY TRAINS,-8.9,,WDL,Transport - Public Transport
+2,1,4/12/2023,FRESH FOOD PEOPLE,-15.15,,WDL,Groceries - Supermarkets
+2,1,4/12/2023,KELLYS PLACE,-19.5,,WDL,Food & Drinks - Bars & Pubs
+2,1,4/12/2023,GROCY,-53.19,,WDL,Groceries - Supermarkets
+2,1,5/12/2023,HCFHEALTH SY NS,-280.55,,WDL,Health & Beauty - health insurance
+2,1,5/12/2023,SMP*La Bottega Cafe LDN ,-4.57,,WDL,Food & Drinks - Cafes & Coffee
+2,1,5/12/2023,State of Espresso CWD NS,-9.8,,WDL,Food & Drinks - Cafes & Coffee
+2,1,5/12/2023,NEXTRA LDN NS,-7.4,,WDL,Work & Study - Books & Stationery
+2,1,5/12/2023,DAVID FARM MARKETS,-29.81,,WDL,Groceries - Supermarkets
+2,1,6/12/2023,APPLE.COM/BILL,-4.49,,WDL,Entertainment - Media Subscriptions
+2,1,7/12/2023,CC,,1030.8,DEP,Banking & Finance - Account Transfer
+2,1,7/12/2023,Money from Emmet,,60,DEP,Banking & Finance - Account Transfer
+2,1,7/12/2023,Work lunch,,25.38,DEP,Banking & Finance - Account Transfer
+2,1,7/12/2023,Work coffee,,10,DEP,Banking & Finance - Account Transfer
+2,1,7/12/2023,Amami Mart LDN NS,-3.8,,WDL,Groceries - Supermarkets
+2,1,7/12/2023,THE ORCHARD TAVERN CWD,-25.38,,WDL,Food & Drinks - Bars & Pubs
+2,1,8/12/2023,Health Burgers,-19.63,,WDL,Food & Drinks - Takeaways
+2,1,8/12/2023,CHEMIST WAREHOUSE LDN NS,-24.99,,WDL,Health & Beauty - Chemists
+2,1,11/12/2023,TELEKOM BILLING,-79,,WDL,Household Utilities - Phone & Internet
+2,1,11/12/2023,PAYPAL *HOVERDOTCOM MS,-25.82,,WDL,Technology - Service
+2,1,11/12/2023,Sonoma LDN LDN NS,-30,,WDL,Food & Drinks - Cafes & Coffee
+2,1,11/12/2023,PAYPAL *UBEREATS,-38.96,,WDL,Food & Drinks - Gelato
+2,1,11/12/2023,FRESH FOOD PEOPLE,-54.45,,WDL,Groceries - Supermarkets
+2,1,11/12/2023,Gelato Mamamia,-14.46,,WDL,Food & Drinks - Gelato
+2,1,11/12/2023,SMP*La Bottega Cafe LDN ,-19.82,,WDL,Food & Drinks - Cafes & Coffee
+2,1,11/12/2023,Sonoma LDN LDN NS,-6,,WDL,Food & Drinks - Cafes & Coffee
+2,1,11/12/2023,Sonoma LDN LDN NS,-15.5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,11/12/2023,PAYPAL *PATREONST ,-9.35,,WDL,Shopping - Hobbies
+2,1,12/12/2023,Cafein LDN ,-5.18,,WDL,Food & Drinks - Cafes & Coffee
+2,1,12/12/2023,Sonoma LDN LDN NS,-15.5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,12/12/2023,NAVIDS BAKERY LDN,-4.5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,12/12/2023,GROCY,-59.65,,WDL,Groceries - Supermarkets
+2,1,13/12/2023,FRESH FOOD PEOPLE,-19.6,,WDL,Groceries - Supermarkets
+2,1,13/12/2023,FRESH FOOD PEOPLE,-12.65,,WDL,Groceries - Supermarkets
+2,1,13/12/2023,FRESH FOOD PEOPLE,-17.4,,WDL,Groceries - Supermarkets
+2,1,13/12/2023,SQ *ALL PURPOSE BAKERY SY NS,-35.35,,WDL,Food & Drinks - Cafes & Coffee
+2,1,14/12/2023,Sonoma LDN LDN NS,-10.5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,15/12/2023,Pho Nam Dinh LDN NS,-16.5,,WDL,Food & Drinks - Takeaways
+2,1,15/12/2023,THAINAMIC. LDN NS,-18.9,,WDL,Food & Drinks - Takeaways
+2,1,15/12/2023,CHEMIST WAREHOUSE LDN NS,-9.99,,WDL,Health & Beauty - Chemists
+2,1,15/12/2023,Cafein LDN ,-8.34,,WDL,Food & Drinks - Cafes & Coffee
+2,1,15/12/2023,Apothecary Coffee CWD NS,-16.7,,WDL,Food & Drinks - Cafes & Coffee
+2,1,15/12/2023,SOME STREAMING SERVICE,-16.99,,WDL,Entertainment - Media Subscriptions
+2,1,17/12/2023,THE ORCHARD TAVERN CWD,-11.77,,WDL,Food & Drinks - Bars & Pubs
+2,1,18/12/2023,JB HI FI LDN LDN NS,-20,,WDL,Gifts
+2,1,18/12/2023,FRESH FOOD PEOPLE,-82.52,,WDL,Groceries - Supermarkets
+2,1,18/12/2023,CITY TRAINS,-9.84,,WDL,Transport - Public Transport
+2,1,18/12/2023,MINRO PTY LTD LDN NS,-120.42,,WDL,Groceries - Supermarkets
+2,1,18/12/2023,PAYPAL *SPOTIFY GB,-20.99,,WDL,Entertainment - Media Subscriptions
+2,1,18/12/2023,SMP*La Bottega Cafe LDN ,-168.23,,WDL,Food & Drinks - Breakfasts
+2,1,19/12/2023,Cafein LDN ,-10.37,,WDL,Food & Drinks - Cafes & Coffee
+2,1,19/12/2023,THE ORCHARD TAVERN CWD,-24.36,,WDL,Food & Drinks - Bars & Pubs
+2,1,19/12/2023,THE ORCHARD TAVERN CWD,-10.45,,WDL,Food & Drinks - Bars & Pubs
+2,1,19/12/2023,THE ORCHARD TAVERN CWD,-14.01,,WDL,Food & Drinks - Bars & Pubs
+2,1,19/12/2023,KITCHEN QUEEN NS,-6.95,,WDL,Food & Drinks - Takeaways
+2,1,20/12/2023,NAVIDS BAKERY LDN ,-4.57,,WDL,Food & Drinks - Cafes & Coffee
+2,1,20/12/2023,Cafein LDN ,-4.47,,WDL,Food & Drinks - Cafes & Coffee
+2,1,21/12/2023,Hover domain,,35,DEP,Banking & Finance - Account Transfer
+2,1,21/12/2023,JB HIFI,,20,DEP,Banking & Finance - Account Transfer
+2,1,21/12/2023,Patreon,,9.35,DEP,Banking & Finance - Account Transfer
+2,1,21/12/2023,#NAME?,,1112.1,DEP,Banking & Finance - Account Transfer
+2,1,21/12/2023,The Orchard,,90,DEP,Banking & Finance - Account Transfer
+2,1,21/12/2023,Cafein LDN ,-10.37,,WDL,Food & Drinks - Cafes & Coffee
+2,1,22/12/2023,FuelStation,-117.96,,WDL,Transport - Fuel
+2,1,22/12/2023,Cafein LDN ,-16.06,,WDL,Food & Drinks - Cafes & Coffee
+2,1,27/12/2023,LSP*HEARTHE STM ,-31.97,,WDL,Food & Drinks - Cafes & Coffee
+2,1,27/12/2023,SMALL PUBS NS,-33.5,,WDL,Food & Drinks - Bars & Pubs
+2,1,27/12/2023,SMALL PUBS NS,-32.5,,WDL,Food & Drinks - Bars & Pubs
+2,1,27/12/2023,TELEKOM BILLING,-41.75,,WDL,Household Utilities - Phone & Internet
+2,1,27/12/2023,SMP*New Shanghai As ALF ,-47.2,,WDL,Food & Drinks - Takeaways
+2,1,27/12/2023,PAYPAL *UBER  ,-13.7,,WDL,Transport - Taxi & Ride Share
+2,1,27/12/2023,The Duke EM NS,-26.23,,WDL,Food & Drinks - Bars & Pubs
+2,1,27/12/2023,Gelato Mamamia,-6.31,,WDL,Food & Drinks - Gelato
+2,1,27/12/2023,Gelato Mamamia,-8.14,,WDL,Food & Drinks - Gelato
+2,1,27/12/2023,Botte D'Oro LDN NS,-13,,WDL,Food & Drinks - Cafes & Coffee
+2,1,27/12/2023,THE SULTANS TABLE EM,-15.25,,WDL,Food & Drinks - Takeaways
+2,1,27/12/2023,DAVID FARM MARKETS,-37.47,,WDL,Groceries - Supermarkets
+2,1,27/12/2023,ALIEXPRESS,-20.9,,WDL,Technology - Gadgets And Electronics
+2,1,27/12/2023,CITY TRAINS,-2.8,,WDL,Transport - Public Transport
+2,1,27/12/2023,lifestylerewards,-154.4,,WDL,Gifts
+2,1,27/12/2023,Gelato Mamamia,-18.73,,WDL,Food & Drinks - Gelato
+2,1,27/12/2023,PAYPAL *CASA DE,-100,,WDL,Technology - Service
+2,1,28/12/2023,PLINE PH LDN LDN,-30,,WDL,Health & Beauty - Chemists
+2,1,28/12/2023,PLINE PH LDN LDN,-13.99,,WDL,Health & Beauty - Chemists
+2,1,29/12/2023,FRESH FOOD PEOPLE,-8.4,,WDL,Groceries - Supermarkets
+2,1,29/12/2023,Sonoma LDN LDN NS,-9.5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,29/12/2023,SERVICE NNN 4025,-208.91,,WDL,Transport - Vehicle Maintenance
+2,1,1/01/2024,GOV PARKING FEES ,-5.94,,WDL,Transport - Parking & Tolls
+2,1,1/01/2024,Nike City,-60,,WDL,Shopping - Clothing & Fashion
+2,1,1/01/2024,Sonoma,-14.7,,WDL,Food & Drinks - Cafes & Coffee
+2,1,1/01/2024,CITY TRAINS,-7.58,,WDL,Transport - Public Transport
+2,1,2/01/2024,AMAZON WEB SERVICES,-12.92,,WDL,Entertainment - Media Subscriptions
+2,1,2/01/2024,CITY PARKING,-5.4,,WDL,Transport - Parking & Tolls
+2,1,2/01/2024,GROCY,-14,,WDL,Groceries - Supermarkets
+2,1,2/01/2024,PAYPAL *SOME STREAMING SERVICE,-16.99,,WDL,Entertainment - Media Subscriptions
+2,1,2/01/2024,PAYPAL *SHOPPINGEXP,-79.79,,WDL,Technology - Gadgets And Electronics
+2,1,2/01/2024,STRIKE BOWLING,-30,,WDL,Entertainment - Events
+2,1,3/01/2024,APPLE STORE,-89,,WDL,Technology - Gadgets And Electronics
+2,1,3/01/2024,HEARTHE,-7.09,,WDL,Food & Drinks - Cafes & Coffee
+2,1,3/01/2024,SMASH REP,-43,,WDL,Transport - Insurance
+2,1,3/01/2024,PAYPAL *CENTRECOM,-348.13,,WDL,Technology - Gadgets And Electronics
+2,1,4/01/2024,dible,-16.45,,WDL,Entertainment - Media Subscriptions
+2,1,4/01/2024,CITY PARKING,-4.2,,WDL,Transport - Parking & Tolls
+2,1,4/01/2024,HAPPY HEALTH,-271.2,,WDL,Health & Beauty - health insurance
+2,1,4/01/2024,Aliexpress,-31.19,,WDL,Technology - Gadgets And Electronics
+2,1,4/01/2024,CITY TRAINS,-8.4,,WDL,Transport - Public Transport
+2,1,5/01/2024,Sheep boots Gift,,129,DEP,Banking & Finance - Account Transfer
+2,1,6/01/2024,GROCY,-32.5,,WDL,Groceries - Supermarkets
+2,1,6/01/2024,Electronics,,150,DEP,Banking & Finance - Account Transfer
+2,1,6/01/2024,IPPUDO,-22.37,,WDL,Food & Drinks - Takeaways
+2,1,6/01/2024,SEVEN COFFEE,-5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,6/01/2024,STRIKE BOWLING,-13,,WDL,Entertainment - Events
+2,1,7/01/2024,AFTERPAY,-159.75,,WDL,Home - Home Improvement
+2,1,7/01/2024,Apothecary Coffee ,-4.8,,WDL,Food & Drinks - Cafes & Coffee
+2,1,7/01/2024,Gelato Mamamia,-16.28,,WDL,Food & Drinks - Gelato
+2,1,7/01/2024,GOV SERVICES,-401.76,,WDL,Transport - Insurance
+2,1,7/01/2024,OLIVER BROWN,-30.33,,WDL,Food & Drinks - Cafes & Coffee
+2,1,7/01/2024,TACO BELL,-10,,WDL,Food & Drinks - Takeaways
+2,1,8/01/2024,CC repayment,,500,DEP,Banking & Finance - Account Transfer
+2,1,8/01/2024,CENTENARY FLEECE SHEEPS,-139,,WDL,Gifts
+2,1,8/01/2024,TOYS 4 KIDS,-15,,WDL,Baby - Clothes and Decor
+2,1,8/01/2024,CITY TRAINS,-5.5,,WDL,Transport - Public Transport
+2,1,8/01/2024,Uniqlo,-19.9,,WDL,Shopping - Clothing & Fashion
+2,1,8/01/2024,V/CELLARS,-12,,WDL,Groceries - Liquor Stores
+2,1,9/01/2024,The Panino Man,-16.2,,WDL,Food & Drinks - Breakfasts
+2,1,9/01/2024,HEARTHE,-34.14,,WDL,Food & Drinks - Breakfasts
+2,1,9/01/2024,SPEEDWAY,-54.77,,WDL,Transport - Fuel
+2,1,9/01/2024,THE MEEM COLLECTIVE,-13.69,,WDL,Food & Drinks - Cafes & Coffee
+2,1,10/01/2024,CITY TRAINS,-8,,WDL,Transport - Public Transport
+2,1,10/01/2024,Uniqlo,,20,DEP,Banking & Finance - Account Transfer
+2,1,11/01/2024,CANVAS FOOD AND BEVERAGE,-60.89,,WDL,Food & Drinks - Takeaways
+2,1,11/01/2024,CLOCKWORK INDUSTRIES,-82.2,,WDL,Food & Drinks - Bars & Pubs
+2,1,12/01/2024,Apothecary Coffee ,-12.4,,WDL,Food & Drinks - Cafes & Coffee
+2,1,12/01/2024,Health Burgers,-15.51,,WDL,Food & Drinks - Takeaways
+2,1,14/01/2024,MCDONALDS,-44.5,,WDL,Food & Drinks - Takeaways
+2,1,15/01/2024,Apothecary Coffee ,-18.9,,WDL,Food & Drinks - Cafes & Coffee
+2,1,15/01/2024,TheBalconyRestrant,-71.68,,WDL,Food & Drinks - Restrants
+2,1,15/01/2024,work lunch,,74,DEP,Banking & Finance - Account Transfer
+2,1,16/01/2024,IPPUDO,-27.46,,WDL,Food & Drinks - Takeaways
+2,1,16/01/2024,SHELLY BEACH,-17.5,,WDL,Food & Drinks - Restrants
+2,1,16/01/2024,Red Phoenix Chinese,-117.06,,WDL,Food & Drinks - Restrants
+2,1,16/01/2024,JAVA AND COCO,-11,,WDL,Food & Drinks - Cafes & Coffee
+2,1,17/01/2024,ABHI S,-89.8,,WDL,Food & Drinks - Takeaways
+2,1,17/01/2024,APPLE.COM/BILL,-4.49,,WDL,Entertainment - Media Subscriptions
+2,1,17/01/2024,GROCY,-29.95,,WDL,Groceries - Supermarkets
+2,1,17/01/2024,Everyday Sandwiches,-48.08,,WDL,Food & Drinks - Breakfasts
+2,1,17/01/2024,Alf's Cocina NS,-10.17,,WDL,Food & Drinks - Cafes & Coffee
+2,1,17/01/2024,STRIKE BOWLING,-35,,WDL,Entertainment - Events
+2,1,18/01/2024,GRIT CAFE,-9,,WDL,Food & Drinks - Cafes & Coffee
+2,1,18/01/2024,Ms Peabody,-4,,WDL,Food & Drinks - Cafes & Coffee
+2,1,18/01/2024,Health Burgers,-59.2,,WDL,Food & Drinks - Takeaways
+2,1,19/01/2024,Car Insurance,,1400,DEP,Banking & Finance - Account Transfer
+2,1,19/01/2024,GROCY,-29.95,,WDL,Groceries - Supermarkets
+2,1,19/01/2024,TELEKOM,-79,,WDL,Household Utilities - Phone & Internet
+2,1,20/01/2024,FIVE PASSIONS,-12.2,,WDL,Food & Drinks - Cafes & Coffee
+2,1,20/01/2024,The Jetty,-4.06,,WDL,Food & Drinks - Cafes & Coffee
+2,1,21/01/2024,DAVID FARM MARKETS,-27.32,,WDL,Groceries - Supermarkets
+2,1,21/01/2024,PAYPAL *ALIPAY,-107.99,,WDL,Technology - Gadgets And Electronics
+2,1,22/01/2024,InsureAll,-514.39,,WDL,Transport - Insurance
+2,1,22/01/2024,BROTHERS BENNY CAFE,-4.05,,WDL,Food & Drinks - Cafes & Coffee
+2,1,22/01/2024,NAT SCIENCE & TECH,-44,,WDL,Gifts
+2,1,22/01/2024,SMP*Henrys s Fruit LLFD ,-2.25,,WDL,Groceries - Supermarkets
+2,1,23/01/2024,CC repayment,,1260,DEP,Banking & Finance - Account Transfer
+2,1,23/01/2024,EDITION ROASTERS,-22.5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,24/01/2024,La Farm Bakery,-6.12,,WDL,Food & Drinks - Takeaways
+2,1,24/01/2024,MOCAN GREEN GROUT,-61.6,,WDL,Food & Drinks - Breakfasts
+2,1,24/01/2024,NAVIDS BAKERY,-4.2,,WDL,Food & Drinks - Cafes & Coffee
+2,1,25/01/2024,Bowens Bacon & Egg ,-10,,WDL,Food & Drinks - Takeaways
+2,1,25/01/2024,PAYPAL *SPOTIFY,-18.99,,WDL,Entertainment - Media Subscriptions
+2,1,27/01/2024,Central Social Club,-18,,WDL,Food & Drinks - Bars & Pubs
+2,1,27/01/2024,MAMAK LONDON,-23.39,,WDL,Food & Drinks - Takeaways
+2,1,27/01/2024,OLIVER BROWN,-6.98,,WDL,Food & Drinks - Cafes & Coffee
+2,1,27/01/2024,Telekom,-50,,WDL,Household Utilities - Phone & Internet
+2,1,27/01/2024,Health Burgers,-28.88,,WDL,Food & Drinks - Takeaways
+2,1,28/01/2024,Apothecary Coffee ,-14.4,,WDL,Food & Drinks - Cafes & Coffee
+2,1,28/01/2024,BROTHERS BENNY CAFE,-5.06,,WDL,Food & Drinks - Cafes & Coffee
+2,1,28/01/2024,Computer parts,,350,DEP,Banking & Finance - Account Transfer
+2,1,28/01/2024,MCDONALDS,-40.1,,WDL,Food & Drinks - Takeaways
+2,1,28/01/2024,SMP*La Bottega Cafe,-4.57,,WDL,Food & Drinks - Cafes & Coffee
+2,1,28/01/2024,SMP*La Bottega Cafe,-53.87,,WDL,Food & Drinks - Cafes & Coffee
+2,1,29/01/2024,AliExpress,,108,DEP,Banking & Finance - Account Transfer
+2,1,29/01/2024,GROCY,-1.85,,WDL,Groceries - Supermarkets
+2,1,29/01/2024,Gelato Mamamia,-16.28,,WDL,Food & Drinks - Gelato
+2,1,29/01/2024,IPPUDO,,22,DEP,Banking & Finance - Account Transfer
+2,1,29/01/2024,Strike Chats,,78,DEP,Banking & Finance - Account Transfer
+2,1,30/01/2024,InsureAll,-480.58,,WDL,Transport - Insurance
+2,1,30/01/2024,DIEU HIEN NGUYEN,-9.2,,WDL,Food & Drinks - Cafes & Coffee
+2,1,30/01/2024,PAYPAL *CENTRALELEC,-149.96,,WDL,Technology - Gadgets And Electronics
+2,1,30/01/2024,HARD DRIVE,,79,DEP,Banking & Finance - Account Transfer
+2,1,30/01/2024,V/CELLARS,-22,,WDL,Groceries - Liquor Stores
+2,1,30/01/2024,Work coffee,,30,DEP,Banking & Finance - Account Transfer
+2,1,1/02/2024,LDN MP News LDN NS,-10.1,,WDL,Entertainment - Betting & Lotteries
+2,1,1/02/2024,FRESH FOOD PEOPLE,-41.43,,WDL,Groceries - Supermarkets
+2,1,1/02/2024,SP KHOLO_THELABEL VI,-120,,WDL,Shopping - Clothing & Fashion
+2,1,1/02/2024,PAYPAL *ALTMILK CC ,-56.3,,WDL,Groceries - Coffee
+2,1,2/02/2024,PLINE PH LDN LDN,-75.66,,WDL,Health & Beauty - Chemists
+2,1,3/02/2024,FRESH FOOD PEOPLE,-49,,WDL,Groceries - Supermarkets
+2,1,3/02/2024,PAYPAL *MYHAPPYHELP ,-188.95,,WDL,Baby - Clothes and Decor
+2,1,3/02/2024,SQ *SINGLE O SHILLS NS,-13.16,,WDL,Food & Drinks - Cafes & Coffee
+2,1,4/02/2024,CITY TRAINS,-5.5,,WDL,Transport - Public Transport
+2,1,4/02/2024,PAYPAL *TWOOBSPTYLT ,,64,DEP,Banking & Finance - Account Transfer
+2,1,4/02/2024,SQ *ACAHUA Ngunnawal AC,-25,,WDL,Shopping - Clothing & Fashion
+2,1,5/02/2024,LDN CHEMIST LDN NS,-7.99,,WDL,Health & Beauty - Chemists
+2,1,5/02/2024,TRANSFER XXX TO XXX,,544,DEP,Banking & Finance - Account Transfer
+2,1,6/02/2024,FRESH FOOD PEOPLE,-6,,WDL,Groceries - Supermarkets
+2,1,7/02/2024,DAVID FARM MARKETS,-11.69,,WDL,Groceries - Supermarkets
+2,1,7/02/2024,CHEMIST WAREHOUSE LDN NS,-19.23,,WDL,Health & Beauty - Chemists
+2,1,7/02/2024,CITY TRAINS,-7.86,,WDL,Transport - Public Transport
+2,1,7/02/2024,ShopOnline,-79.96,,WDL,Baby - Clothes and Decor
+2,1,7/02/2024,Gelato Mamamia,-14.45,,WDL,Food & Drinks - Gelato
+2,1,7/02/2024,MOOL,,150,DEP,Banking & Finance - Account Transfer
+2,1,7/02/2024,MYER SY CITY SY NS,-122.57,,WDL,Baby - Clothes and Decor
+2,1,7/02/2024,PAYPAL *MOOL NY,-149,,WDL,Health & Beauty - Gyms & Fitness
+2,1,8/02/2024,IDAMENEO NO 123 P/L LDN NS,-154,,WDL,Health & Beauty - Doctors & Dentist
+2,1,8/02/2024,MR PANINO NS,-31.88,,WDL,Food & Drinks - Breakfasts
+2,1,8/02/2024,DOLLAR AVENUE,-17.5,,WDL,Home - Home Improvement
+2,1,8/02/2024,CITY TRAINS,-8.4,,WDL,Transport - Public Transport
+2,1,8/02/2024,ShopOnline,,26.95,DEP,Banking & Finance - Account Transfer
+2,1,8/02/2024,Bar Sport LDN NS,-13.2,,WDL,Food & Drinks - Takeaways
+2,1,9/02/2024,FuelStation,-100.79,,WDL,Transport - Fuel
+2,1,9/02/2024,FRESH FOOD PEOPLE,-19.5,,WDL,Groceries - Supermarkets
+2,1,10/02/2024,MR PANINO NS,-19.23,,WDL,Food & Drinks - Breakfasts
+2,1,10/02/2024,ShopOnline,,49.95,DEP,Banking & Finance - Account Transfer
+2,1,11/02/2024,FRESH FOOD PEOPLE,-27.8,,WDL,Groceries - Supermarkets
+2,1,12/02/2024,FRESH FOOD PEOPLE,-14.69,,WDL,Groceries - Supermarkets
+2,1,12/02/2024,JB Hi-Fi MobileExtras SY ,-12.99,,WDL,Household Utilities - Phone & Internet
+2,1,12/02/2024,TeasRUs,-14.57,,WDL,Food & Drinks - Cafes & Coffee
+2,1,12/02/2024,COCKINGTON GREEN GARDE NICHOLLS AC,-50,,WDL,Entertainment - Events
+2,1,12/02/2024,ZLR*littlewu markets CWD ,-16,,WDL,Food & Drinks - Takeaways
+2,1,14/02/2024,Berkelouw Books LDN NS,-14.99,,WDL,Entertainment - Books
+2,1,14/02/2024,PLINE PH LDN LDN,-19.79,,WDL,Health & Beauty - Chemists
+2,1,14/02/2024,FRESH FOOD PEOPLE,-29.6,,WDL,Groceries - Supermarkets
+2,1,15/02/2024,GROCY,-5.48,,WDL,Groceries - Supermarkets
+2,1,15/02/2024,CBA,,1000,DEP,Banking & Finance - Account Transfer
+2,1,15/02/2024,TRANSFER XXX TO XXX,,593.89,DEP,Banking & Finance - Account Transfer
+2,1,15/02/2024,MCDONALDS CBR CITY CBA,-9.8,,WDL,Food & Drinks - Takeaways
+2,1,15/02/2024,TRANSFER XXX TO XXX,,380,DEP,Banking & Finance - Account Transfer
+2,1,16/02/2024,MANOOSH,-64.26,,WDL,Food & Drinks - Takeaways
+2,1,16/02/2024,GRIT CAFE GB NS,-49.5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,16/02/2024,SQ *MYBROWBRO SHILL NS,-50,,WDL,Health & Beauty - Hair & Beauty
+2,1,17/02/2024,DAVID FARM MARKETS,-18.98,,WDL,Groceries - Supermarkets
+2,1,17/02/2024,credit card,,944.38,DEP,Banking & Finance - Account Transfer
+2,1,17/02/2024,MINRO PTY LTD LDN NS,-102.99,,WDL,Groceries - Supermarkets
+2,1,17/02/2024,GROCY,-11.61,,WDL,Groceries - Supermarkets
+2,1,17/02/2024,DAVID FARM MARKETS,-19.53,,WDL,Groceries - Supermarkets
+2,1,17/02/2024,CITY TRAINS,-7.86,,WDL,Transport - Public Transport
+2,1,17/02/2024,MANOOSH,-55.57,,WDL,Food & Drinks - Takeaways
+2,1,17/02/2024,A BY ALICE CBA CBA AC,-532.64,,WDL,Holiday & Travel - Hotels & Accomodation
+2,1,17/02/2024,OLD CBA INN STRALIA VI,-71,,WDL,Food & Drinks - Bars & Pubs
+2,1,18/02/2024,MINRO PTY LTD LDN NS,-23.38,,WDL,Groceries - Supermarkets
+2,1,18/02/2024,BUDGET PETROL NNN PT GB,-98.3,,WDL,Transport - Fuel
+2,1,19/02/2024,WOOLWORTHS 1647 LDN ,-39.77,,WDL,Groceries - Supermarkets
+2,1,19/02/2024,Uniqlo,-259.6,,WDL,Shopping - Clothing & Fashion
+2,1,19/02/2024,CANVAS FOOD AND BEVERA,-21.86,,WDL,Food & Drinks - Takeaways
+2,1,19/02/2024,THE ORCHARD TAVERN CWD,-33.09,,WDL,Food & Drinks - Bars & Pubs
+2,1,20/02/2024,LDN MP News LDN NS,-15.1,,WDL,Entertainment - Betting & Lotteries
+2,1,20/02/2024,TARGET,-51.5,,WDL,Baby - Clothes and Decor
+2,1,20/02/2024,DAVID JONES LIMITED SY,-39.99,,,Shopping - Clothing & Fashion
+2,1,21/02/2024,Gelato Mamamia,-16.28,,WDL,Food & Drinks - Gelato
+2,1,21/02/2024,SQ *KJ LIVES LDN NS,-16,,WDL,Food & Drinks - Takeaways
+2,1,21/02/2024,TRANSFER XXX TO XXX,,260,DEP,Banking & Finance - Account Transfer
+2,1,21/02/2024,CDIA CAFE CD,-25.7,,WDL,Food & Drinks - Cafes & Coffee
+2,1,21/02/2024,APERIT RESTRANT LDN NS,-36.55,,WDL,Food & Drinks - Takeaways
+2,1,22/02/2024,TRANSFER XXX TO XXX,,350,DEP,Banking & Finance - Account Transfer
+2,1,22/02/2024,SQ *DOSA LLFD NS,-15,,WDL,Food & Drinks - Takeaways
+2,1,22/02/2024,Bonds Outlet HSH ,-364.82,,WDL,Baby - Clothes and Decor
+2,1,22/02/2024,ShopOnline,,71.25,DEP,Banking & Finance - Account Transfer
+2,1,22/02/2024,SAGA EM EM NS,-85.85,,WDL,Food & Drinks - Cafes & Coffee
+2,1,22/02/2024,Ursula's PDD PDD NS,-379.1,,WDL,Food & Drinks - Restrants
+2,1,23/02/2024,GROCY,-27.15,,WDL,Groceries - Supermarkets
+2,1,23/02/2024,MADMEX HSH HSH,-37.8,,WDL,Food & Drinks - Takeaways
+2,1,24/02/2024,NIKE,-40,,WDL,Shopping - Clothing & Fashion
+2,1,24/02/2024,TELEKOM,-69,,WDL,Household Utilities - Phone & Internet
+2,1,24/02/2024,PAYPAL *TWOOBSPTYLT ,-64,,WDL,Shopping - Clothing & Fashion
+2,1,25/02/2024,PAYPAL *GOOGLE GOOGLE ,-24.99,,WDL,Entertainment - Media Subscriptions
+2,1,25/02/2024,GROCY,-91.35,,WDL,Groceries - Supermarkets
+2,1,25/02/2024,FRESH FOOD PEOPLE,-31.1,,WDL,Groceries - Supermarkets
+2,1,25/02/2024,Bar Sport LDN NS,-32.48,,WDL,Food & Drinks - Takeaways
+2,1,26/02/2024,FRESH FOOD PEOPLE,-17,,WDL,Groceries - Supermarkets
+2,1,26/02/2024,E D BRUMBY PTY LTD BD NS,-80,,WDL,Health & Beauty - Doctors & Dentist
+2,1,26/02/2024,WILSON PARKING HSH NS,-6.08,,WDL,Transport - Parking & Tolls
+2,1,26/02/2024,Peraonal,,50,DEP,Banking & Finance - Account Transfer
+2,1,26/02/2024,MINRO PTY LTD LDN NS,-117.76,,WDL,Groceries - Supermarkets
+2,1,27/02/2024,Sonoma LDN LDN NS,-12.5,,WDL,Food & Drinks - Cafes & Coffee
+2,1,28/02/2024,GROCY,-72.8,,WDL,Groceries - Supermarkets
+2,1,28/02/2024,Beignets & Suya Box Taylor AC,-42.63,,WDL,Food & Drinks - Takeaways
+2,1,28/02/2024,CITY TRAINS,-5.5,,WDL,Transport - Public Transport
+2,1,29/02/2024,SQ *DUO DUO NS,-12.5,,WDL,Food & Drinks - Cafes & Coffee
